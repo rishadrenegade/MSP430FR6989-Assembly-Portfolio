@@ -1,0 +1,21 @@
+# Code Composer Studio (CCS) / Eclipse IDE Metadata
+.metadata/
+.settings/
+.cproject
+.project
+*.ccxml
+
+# Compiled Object Files and Binaries
+*.obj
+*.out
+*.map
+*.hex
+*.txt
+
+# Build Folders
+/Debug/
+/Release/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
